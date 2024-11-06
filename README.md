@@ -1,10 +1,17 @@
 # 22956-Gishushu-Traffic-Lights-state-diagram
-state diagram Gishushu Traffic Lights State Machine 
+state diagram Gishushu Traffic Lights State Machine
+--------------------------------------------------
 
 Specification (Narration)
 ------------------------
 
 The Gishushu Traffic Lights system is designed to control vehicle and pedestrian traffic at intersections, ensuring safety and efficiency. The system operates in a cyclical manner through three primary states: Green, Yellow, and Red.
+
+Green Light: Cars can go.
+
+Yellow Light: Cars should prepare to stop.
+
+Red Light: Cars must stop.
 
  States and Their Function
  -------------------------
